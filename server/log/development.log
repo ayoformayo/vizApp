@@ -1,0 +1,2077 @@
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:24:55 -0700
+
+ActionController::RoutingError (uninitialized constant ActionController::Serialization):
+  app/controllers/application_controller.rb:3:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/liquor_licenses_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (7.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (28.9ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:25:54 -0700
+
+ActionController::RoutingError (uninitialized constant ActionController::Serialization):
+  app/controllers/application_controller.rb:3:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/liquor_licenses_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (19.5ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:25:55 -0700
+
+ActionController::RoutingError (uninitialized constant ActionController::Serialization):
+  app/controllers/application_controller.rb:3:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/liquor_licenses_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (14.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:27:40 -0700
+
+ActionController::RoutingError (uninitialized constant ActionController::Serialization):
+  app/controllers/application_controller.rb:3:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/liquor_licenses_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (14.7ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:27:41 -0700
+
+ActionController::RoutingError (uninitialized constant ActionController::Serialization):
+  app/controllers/application_controller.rb:3:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/liquor_licenses_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (15.8ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:27:44 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 5ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/success, application/success with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.5ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:27:45 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 0ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/success, application/success with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.5ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:28:43 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 1ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/success, application/success with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.4ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:28:44 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 0ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/success, application/success with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.4ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:28:44 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 1ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/success, application/success with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.4ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:28:45 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 1ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/success, application/success with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.5ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:29:00 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 1ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/show, application/show with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.5ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:29:01 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 500 Internal Server Error in 1ms
+
+ActionView::MissingTemplate (Missing template liquor_licenses/show, application/show with {:locale=>[:en], :formats=>[:json], :variants=>[], :handlers=>[:erb, :builder, :raw, :ruby]}. Searched in:
+):
+  app/controllers/liquor_licenses_controller.rb:3:in `show'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb within rescues/layout (0.7ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:29:28 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 200 OK in 0ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:29:40 -0700
+
+ActionController::RoutingError (uninitialized constant ActionController::Serialization):
+  app/controllers/application_controller.rb:3:in `<class:ApplicationController>'
+  app/controllers/application_controller.rb:1:in `<top (required)>'
+  app/controllers/liquor_licenses_controller.rb:1:in `<top (required)>'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (12.9ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:30:56 -0700
+
+Gem::LoadError (Specified 'sqlite3' for database adapter, but the gem is not loaded. Add `gem 'sqlite3'` to your Gemfile (and ensure its version is at the minimum required by ActiveRecord).):
+  activerecord (4.1.8) lib/active_record/connection_adapters/connection_specification.rb:190:in `rescue in spec'
+  activerecord (4.1.8) lib/active_record/connection_adapters/connection_specification.rb:187:in `spec'
+  activerecord (4.1.8) lib/active_record/connection_handling.rb:50:in `establish_connection'
+  activerecord (4.1.8) lib/active_record/railtie.rb:129:in `block (2 levels) in <class:Railtie>'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:38:in `instance_eval'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:38:in `execute_hook'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:45:in `block in run_load_hooks'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:44:in `each'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:44:in `run_load_hooks'
+  activerecord (4.1.8) lib/active_record/base.rb:326:in `<module:ActiveRecord>'
+  activerecord (4.1.8) lib/active_record/base.rb:23:in `<top (required)>'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:628:in `rescue in call'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:619:in `call'
+  activerecord (4.1.8) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.8) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.2ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (18.8ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:30:57 -0700
+
+Gem::LoadError (Specified 'sqlite3' for database adapter, but the gem is not loaded. Add `gem 'sqlite3'` to your Gemfile (and ensure its version is at the minimum required by ActiveRecord).):
+  activerecord (4.1.8) lib/active_record/connection_adapters/connection_specification.rb:190:in `rescue in spec'
+  activerecord (4.1.8) lib/active_record/connection_adapters/connection_specification.rb:187:in `spec'
+  activerecord (4.1.8) lib/active_record/connection_handling.rb:50:in `establish_connection'
+  activerecord (4.1.8) lib/active_record/railtie.rb:129:in `block (2 levels) in <class:Railtie>'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:38:in `instance_eval'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:38:in `execute_hook'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:45:in `block in run_load_hooks'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:44:in `each'
+  activesupport (4.1.8) lib/active_support/lazy_load_hooks.rb:44:in `run_load_hooks'
+  activerecord (4.1.8) lib/active_record/base.rb:326:in `<module:ActiveRecord>'
+  activerecord (4.1.8) lib/active_record/base.rb:23:in `<top (required)>'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:628:in `rescue in call'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:619:in `call'
+  activerecord (4.1.8) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.8) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.5ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.3ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:31:37 -0700
+
+ActiveRecord::NoDatabaseError (FATAL:  database "visualization_development" does not exist
+Run `$ bin/rake db:create db:migrate` to create your database):
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:898:in `rescue in connect'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:888:in `connect'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:568:in `initialize'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:41:in `new'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:41:in `postgresql_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:435:in `new_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:445:in `checkout_new_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:416:in `acquire_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:351:in `block in checkout'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:350:in `checkout'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:265:in `block in connection'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:264:in `connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:541:in `retrieve_connection'
+  activerecord (4.1.8) lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+  activerecord (4.1.8) lib/active_record/connection_handling.rb:87:in `connection'
+  activerecord (4.1.8) lib/active_record/query_cache.rb:51:in `restore_query_cache_settings'
+  activerecord (4.1.8) lib/active_record/query_cache.rb:43:in `rescue in call'
+  activerecord (4.1.8) lib/active_record/query_cache.rb:32:in `call'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.8) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.8) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (15.8ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:31:38 -0700
+
+ActiveRecord::NoDatabaseError (FATAL:  database "visualization_development" does not exist
+Run `$ bin/rake db:create db:migrate` to create your database):
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:898:in `rescue in connect'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:888:in `connect'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:568:in `initialize'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:41:in `new'
+  activerecord (4.1.8) lib/active_record/connection_adapters/postgresql_adapter.rb:41:in `postgresql_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:435:in `new_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:445:in `checkout_new_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:416:in `acquire_connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:351:in `block in checkout'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:350:in `checkout'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:265:in `block in connection'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:264:in `connection'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:541:in `retrieve_connection'
+  activerecord (4.1.8) lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+  activerecord (4.1.8) lib/active_record/connection_handling.rb:87:in `connection'
+  activerecord (4.1.8) lib/active_record/query_cache.rb:51:in `restore_query_cache_settings'
+  activerecord (4.1.8) lib/active_record/query_cache.rb:43:in `rescue in call'
+  activerecord (4.1.8) lib/active_record/query_cache.rb:32:in `call'
+  activerecord (4.1.8) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.8) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.8) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.8) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.3ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:31:57 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:33:12 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:33:13 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 10:33:19 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (59.8ms)
+Completed 200 OK in 65ms (Views: 64.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:26:57 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.4ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/browser-sync/socket.io/?EIO=3&transport=polling&t=1432924400809-6" for 127.0.0.1 at 2015-05-29 11:33:20 -0700
+
+ActionController::RoutingError (No route matches [GET] "/browser-sync/socket.io"):
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack-cors (0.2.9) lib/rack/cors.rb:54:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (12.2ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (33.9ms)
+
+
+Started GET "/browser-sync/socket.io/?EIO=3&transport=polling&t=1432924408633-7" for 127.0.0.1 at 2015-05-29 11:33:28 -0700
+
+ActionController::RoutingError (No route matches [GET] "/browser-sync/socket.io"):
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack-cors (0.2.9) lib/rack/cors.rb:54:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (14.4ms)
+
+
+Started GET "/browser-sync/socket.io/?EIO=3&transport=polling&t=1432924414993-8" for 127.0.0.1 at 2015-05-29 11:33:35 -0700
+
+ActionController::RoutingError (No route matches [GET] "/browser-sync/socket.io"):
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack-cors (0.2.9) lib/rack/cors.rb:54:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (13.6ms)
+
+
+Started GET "/browser-sync/socket.io/?EIO=3&transport=polling&t=1432924464560-15" for 127.0.0.1 at 2015-05-29 11:34:24 -0700
+
+ActionController::RoutingError (No route matches [GET] "/browser-sync/socket.io"):
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack-cors (0.2.9) lib/rack/cors.rb:54:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (6.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (22.7ms)
+
+
+Started GET "/browser-sync/socket.io/?EIO=3&transport=polling&t=1432924472229-16" for 127.0.0.1 at 2015-05-29 11:34:32 -0700
+
+ActionController::RoutingError (No route matches [GET] "/browser-sync/socket.io"):
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack-cors (0.2.9) lib/rack/cors.rb:54:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (15.8ms)
+
+
+Started GET "/browser-sync/socket.io/?EIO=3&transport=polling&t=1432924478035-17" for 127.0.0.1 at 2015-05-29 11:34:38 -0700
+
+ActionController::RoutingError (No route matches [GET] "/browser-sync/socket.io"):
+  actionpack (4.1.8) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.8) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.8) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.8) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.3) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.8) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack-cors (0.2.9) lib/rack/cors.rb:54:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.8) lib/action_dispatch/middleware/static.rb:84:in `call'
+  railties (4.1.8) lib/rails/engine.rb:514:in `call'
+  railties (4.1.8) lib/rails/application.rb:144:in `call'
+  rack (1.5.3) lib/rack/lock.rb:17:in `call'
+  rack (1.5.3) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.3) lib/rack/handler/webrick.rb:60:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.1ms)
+  Rendered /Users/Jimmi/.rbenv/versions/2.0.0-p481/lib/ruby/gems/2.0.0/gems/actionpack-4.1.8/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (15.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:35:07 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (77.1ms)
+Completed 200 OK in 157ms (Views: 155.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:35:32 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:35:32 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 44ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:35:59 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:35:59 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 45ms (Views: 45.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:48:16 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:48:16 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 96ms (Views: 96.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:48:51 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:48:51 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (43.2ms)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:49:07 -0700
+Processing by LiquorLicensesController#show as JSON
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:49:41 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:49:41 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 58ms (Views: 57.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:50:04 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-29 11:50:05 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (1.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-30 22:53:13 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (16.2ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:41:00 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (163.0ms)
+Completed 200 OK in 183ms (Views: 181.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:43:47 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:43:47 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (121.7ms)
+Completed 200 OK in 131ms (Views: 130.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:43:47 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:43:48 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:44:08 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 45ms (Views: 45.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:44:08 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:44:09 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:44:09 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:45:13 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:45:13 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:45:13 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:45:13 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 46ms (Views: 46.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:57:15 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:57:15 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:57:16 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:57:16 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 45ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:57:40 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:57:40 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:57:41 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:57:41 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 46ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:58:07 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:58:07 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:58:08 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.8ms)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:58:08 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 105ms (Views: 104.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:58:35 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:58:35 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 14:58:35 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 14:58:35 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:08:02 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (2.7ms)
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:08:02 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:09:46 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:09:46 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:09:47 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 46ms (Views: 46.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:09:47 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:11:35 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:11:35 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:14:07 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:14:07 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:14:07 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 50ms (Views: 49.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:14:07 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:14:08 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:14:09 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:14:25 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:14:25 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:14:25 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 51ms (Views: 51.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:14:26 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:14:26 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:14:27 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:03 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:03 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:03 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 52ms (Views: 51.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:04 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:05 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:06 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:27 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:27 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:27 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 49ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:28 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:28 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:30 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:44 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:44 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:44 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (49.9ms)
+Completed 200 OK in 52ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:15:44 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:44 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:15:46 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:16:02 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:16:02 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:16:03 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (64.8ms)
+Completed 200 OK in 67ms (Views: 66.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:16:04 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:16:04 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:16:05 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:17:07 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:17:07 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:17:07 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 51ms (Views: 51.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:17:08 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:17:08 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:17:09 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:18:38 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:18:38 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:18:55 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 46ms (Views: 46.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:18:55 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:19:04 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:19:04 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:19:46 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:19:46 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:20:32 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.4ms)
+Completed 200 OK in 47ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:20:32 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:21:13 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:21:13 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:21:24 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:21:24 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:21:39 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (49.4ms)
+Completed 200 OK in 51ms (Views: 50.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:21:39 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:21:53 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:21:54 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:22:18 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:22:18 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:22:29 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (48.1ms)
+Completed 200 OK in 50ms (Views: 49.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:22:30 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:22:58 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:22:58 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:23:32 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:23:32 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:23:54 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 49ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:23:54 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:24:42 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:24:42 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:25:24 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:25:24 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:26:47 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 48ms (Views: 47.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:26:47 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (13.5ms)
+Completed 200 OK in 15ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:28:13 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:28:14 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:29:02 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 45ms (Views: 44.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:29:03 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:29:22 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:29:23 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 15:50:31 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 48ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 15:50:32 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (2.5ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:02:02 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:02:02 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:09:49 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:09:49 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:13:11 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 74ms (Views: 73.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:13:12 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:13:28 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:15:24 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (14.0ms)
+Completed 200 OK in 16ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:19:05 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (1.7ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:19:26 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (64.3ms)
+Completed 200 OK in 67ms (Views: 66.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:34:20 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (2.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:35:21 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:35:21 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:36:27 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:36:27 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:37:48 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:37:48 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 50ms (Views: 49.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:38:02 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:38:02 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.2ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:40:37 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (16.4ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/liquor_licenses.json" for 127.0.0.1 at 2015-05-31 16:40:38 -0700
+Processing by LiquorLicensesController#show as JSON
+  Rendered liquor_licenses/show.json (0.3ms)
+Completed 200 OK in 44ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:45:21 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (15.4ms)
+Completed 200 OK in 18ms (Views: 17.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:45:32 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:47:15 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.7ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:47:35 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:48:09 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:48:15 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:48:48 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:49:29 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (63.8ms)
+Completed 200 OK in 66ms (Views: 65.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:50:59 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (18.1ms)
+Completed 200 OK in 20ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:51:53 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.7ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:52:06 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (1.9ms)
+Completed 200 OK in 68ms (Views: 67.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:52:36 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (17.2ms)
+Completed 200 OK in 19ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:54:30 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (16.3ms)
+Completed 200 OK in 18ms (Views: 18.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:54:38 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (16.4ms)
+Completed 200 OK in 19ms (Views: 18.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:55:23 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (10.2ms)
+Completed 200 OK in 13ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:55:42 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (74.3ms)
+Completed 200 OK in 76ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:57:24 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (9.9ms)
+Completed 200 OK in 12ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:57:43 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (10.9ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 16:57:56 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (18.5ms)
+Completed 200 OK in 21ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:18:11 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (17.4ms)
+Completed 200 OK in 28ms (Views: 26.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:18:38 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (27.7ms)
+Completed 200 OK in 31ms (Views: 31.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:19:08 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (14.1ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:19:54 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (148.3ms)
+Completed 200 OK in 151ms (Views: 151.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:20:09 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (17.9ms)
+Completed 200 OK in 20ms (Views: 20.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:20:19 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (18.3ms)
+Completed 200 OK in 21ms (Views: 20.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:20:33 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:20:46 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:21:38 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:21:49 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:22:02 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.6ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:22:15 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (44.2ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:23:22 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:23:37 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.1ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:24:21 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:24:29 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:28:52 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.6ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:29:05 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 49ms (Views: 48.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:29:35 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:29:48 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:38:07 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:38:59 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (11.9ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:39:15 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (15.5ms)
+Completed 200 OK in 62ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:39:51 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:42:17 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:42:33 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.8ms)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:43:00 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (58.3ms)
+Completed 200 OK in 60ms (Views: 60.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:43:30 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (12.9ms)
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:45:07 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (12.6ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:48:32 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (64.0ms)
+Completed 200 OK in 67ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:52:20 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (9.6ms)
+Completed 200 OK in 12ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 18:52:44 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (21.6ms)
+Completed 200 OK in 24ms (Views: 23.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:26:06 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (35.5ms)
+Completed 200 OK in 85ms (Views: 84.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:29:54 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 46ms (Views: 45.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:30:14 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:32:56 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:38:22 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (1.0ms)
+Completed 200 OK in 3ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:39:19 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 45ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:39:44 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:40:10 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:43:40 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 51ms (Views: 50.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:44:41 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 4ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:45:29 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:45:47 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:53:41 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 46ms (Views: 45.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:53:41 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:53:53 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:53:55 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 47ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:54:20 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 2ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:54:47 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:55:17 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:55:58 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 48ms (Views: 48.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:57:53 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 19:58:31 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 20:00:09 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.2ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 20:01:16 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 38ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 20:01:50 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 20:02:08 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 20:02:38 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 20:02:56 -0700
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 46ms (Views: 45.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 23:24:08 -0400
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 23:29:21 -0400
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.3ms)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 23:38:39 -0400
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.4ms)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 23:38:47 -0400
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.6ms)
+Completed 200 OK in 59ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/maps/new_york.json" for 127.0.0.1 at 2015-05-31 23:39:05 -0400
+Processing by MapsController#new_york as JSON
+  Rendered maps/new_york.json (0.5ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
