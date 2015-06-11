@@ -6,8 +6,11 @@ var topojson = require('topojson');
 
 var LiquorMaps = React.createClass({
   componentDidMount(){
-    var height = 1000,
-    width = 1920;
+    console.log($('section').height())
+    console.log($(this.refs.container.getDOMNode()).width())
+    var height = $('section').height(),
+    width = $('section').width();
+    console.log($(this.refs.container.getDOMNode()))
     var color = d3.scale.category20();
     var svg = d3.select('.svg-container')
               .append('svg')
@@ -20,8 +23,8 @@ var LiquorMaps = React.createClass({
       var newYork;
       var projection = d3.geo.mercator()
                   .center([-73.94, 40.70])
-                  .scale(100000)
-                  .translate([(width) / 3, (height)/2]);
+                  .scale(50000)
+                  .translate([(width) / 2, (height)/2]);
 
         var path = d3.geo.path().pointRadius(1)
             .projection(projection);
@@ -66,7 +69,7 @@ var LiquorMaps = React.createClass({
 
   render() {
     return (
-      <div className="svg-container" />
+      <div className="svg-container default-svg-container" ref="container" />
     );
   }
 });

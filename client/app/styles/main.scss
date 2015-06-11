@@ -2,9 +2,21 @@ $icon-font-path: "../fonts/";
 
 @import "bootstrap-sass-official/assets/stylesheets/bootstrap";
 
-svg {
+
+.default-svg-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.svg-container svg {
     background-color: black;
 }
+
+.my-svg svg {
+    background-color: white;
+}
+
 .new-york-unit {
     fill: #575757;
     opacity: 0;
@@ -14,6 +26,34 @@ svg {
     stroke: blue;*/
 }
 
+section {
+    position: relative;
+    height: 100%
+}
+
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
+
+
+
 .browsehappy {
     margin: 0.2em 0;
     background: #ccc;
@@ -21,11 +61,6 @@ svg {
     padding: 0.2em 0;
 }
 
-/* Space out content a bit */
-body {
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
