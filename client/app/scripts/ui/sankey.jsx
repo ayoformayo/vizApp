@@ -299,7 +299,7 @@ module.exports = React.createClass({
   renderSlack(){
     var containerHeight = $('section').height(),
       containerWidth = $('section').width();
-    var margin = {top: 10, right: 10, bottom: 60, left: 10},
+    var margin = {top: 100, right: 100, bottom: 100, left: 100},
         width = containerWidth - margin.left - margin.right,
         height = containerHeight - margin.top - margin.bottom;
 
@@ -367,7 +367,10 @@ module.exports = React.createClass({
 
   render(){
     return(
-      <div className="my-svg default-svg-container" />
+      <div>
+        <a name="sankey"></a>
+        <div className="my-svg default-svg-container" />
+      </div>
     )
   }
 });

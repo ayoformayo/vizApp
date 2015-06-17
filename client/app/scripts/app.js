@@ -14,7 +14,8 @@ var DefaultRoute = Router.DefaultRoute;
 var LiquorMap = require("./ui/liquor_maps.jsx"),
     Sankey = require("./ui/sankey.jsx"),
     mountNode = document.getElementById("app"),
-    DefaultLayout = require("./ui/layout.jsx")
+    DefaultLayout = require("./ui/layout.jsx"),
+    OnePager = require("./ui/OnePager.jsx");
 
 var RouteHandler = Router.RouteHandler;
 
@@ -25,15 +26,15 @@ var Handler = React.createClass({
     )
   }
 });
+    // <Route path="liquor_map" handler={LiquorMap}/>
+    // <Route path="sankey" handler={Sankey}/>
 var routes = (
   <Route handler={DefaultLayout}>
-    <Route path="liquor_map" handler={LiquorMap}/>
-    <Route path="sankey" handler={Sankey}/>
-    <Route path="/" handler={LiquorMap}/>
+    <Route path="/?:slug?" handler={OnePager}/>
   </Route>
 );
 
-Router.run(routes, Router.HashLocation, (Root) => {
+Router.run(routes, Router.HistoryLocation, (Root) => {
   React.render(<Root/>, document.getElementById("app"));
 });
 

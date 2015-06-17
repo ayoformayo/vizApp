@@ -3,12 +3,6 @@ var RaisedButton = mui.RaisedButton;
 var ThemeManager = new mui.Styles.ThemeManager();
 var Colors = mui.Styles.Colors;
 
-class Links extends React.Component {
-  render(){
-    return <a>ALSJDHASJKFDH</a>
-  }
-}
-
 var Layout = React.createClass({
   childContextTypes: {
     muiTheme: React.PropTypes.object
