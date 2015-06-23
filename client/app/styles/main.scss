@@ -1,7 +1,12 @@
 $icon-font-path: "../fonts/";
 
 @import "bootstrap-sass-official/assets/stylesheets/bootstrap";
+@import "heatMap";
 
+
+.app-bar {
+    background-color: transparent !important;
+}
 
 .default-svg-container {
     position: relative;

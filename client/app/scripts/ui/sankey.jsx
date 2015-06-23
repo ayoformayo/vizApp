@@ -294,7 +294,7 @@ d3.sankey = function() {
   return sankey;
 };
 
-module.exports = React.createClass({
+var Sankey = React.createClass({
 
   renderSlack(){
     var containerHeight = $('section').height(),
@@ -313,8 +313,8 @@ module.exports = React.createClass({
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     var sankey = d3.sankey()
-        .nodeWidth(15)
-        .nodePadding(10)
+        .nodeWidth(5)
+        .nodePadding(5)
         .size([width, height]);
     var path = sankey.link();
     d3.xhr("http://localhost:3000/slack.json", function(error, success) {
@@ -374,3 +374,4 @@ module.exports = React.createClass({
     )
   }
 });
+module.exports = Sankey;

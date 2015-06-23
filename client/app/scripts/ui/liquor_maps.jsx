@@ -13,8 +13,16 @@ var LiquorMaps = React.createClass({
               .append('svg')
               .attr('height', height)
               .attr('width', width);
-              console.log(110000 / height)
+              console.log(110000 / height);
     var scale = height * 92.43697478991596
+
+    var textField = svg.append('text')
+                     .attr("x", -10 )
+                     .attr("y", 0)
+                     .text("ASDASDSD")
+                     .attr("font-family", "sans-serif")
+                     .attr("font-size", "20px")
+                     .attr("fill", "red");
 
     d3.xhr('http://localhost:3000/maps/new_york.json', (error, success) => {
       var newYork;

@@ -5,6 +5,9 @@ var PAGES = {
   },
   sankey: {
     component: require('./sankey.jsx')
+  },
+  heat_map: {
+    component: require('./UBHeatMap.jsx')
   }
 }
 var Router = require('react-router');

@@ -21,11 +21,12 @@ var Layout = React.createClass({
   },
 
   render(){
-    var sectionHeight = window.innerHeight - 64 +"px";
+    var sectionHeight = window.innerHeight;
+    var sectionWidth = window.innerWidth;
     return (
       <div>
-        <AppBar showMenuIconButton={false} title="Visuals" style={{position: "fixed"}}/>
-        <section style={{height: sectionHeight, position: "relative", top: "64px"}}>
+        <AppBar showMenuIconButton={false} title="Visuals" style={{position: "fixed" }} className="app-bar"/>
+        <section style={{height: sectionHeight, width: sectionWidth, position: "relative"}}>
           <Router.RouteHandler {...this.props}/>
         </section>
       </div>
