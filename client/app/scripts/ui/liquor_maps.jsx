@@ -17,19 +17,26 @@ var LiquorMaps = React.createClass({
     var scale = height * 92.43697478991596
 
     var textField = svg.append('text')
-                     .attr("x", -10 )
-                     .attr("y", 0)
-                     .text("ASDASDSD")
+                     .attr("x", "10%" )
+                     .attr("y", "90%")
+                     .text("Active Liquor Licenses")
                      .attr("font-family", "sans-serif")
                      .attr("font-size", "20px")
-                     .attr("fill", "red");
+                     .attr("fill", "white");
+    var subTextField = svg.append('text')
+                     .attr("x", "10%" )
+                     .attr("y", "92%")
+                     .text("New York, NY")
+                     .attr("font-family", "sans-serif")
+                     .attr("font-size", "15px")
+                     .attr("fill", "white");
 
     d3.xhr('http://localhost:3000/maps/new_york.json', (error, success) => {
       var newYork;
       var projection = d3.geo.mercator()
                   .center([-73.94, 40.70])
                   .scale(scale)
-                  .translate([(width) / 2, (height)/2]);
+                  .translate([(width * 0.6), (height)/2]);
       
         var path = d3.geo.path().pointRadius(1)
             .projection(projection);
