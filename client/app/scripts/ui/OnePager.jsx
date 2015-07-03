@@ -1,10 +1,10 @@
 var _ = require('underscore');
 var PAGES = {
-  sankey: {
-    component: require('./sankey.jsx')
-  },
   liquor_licenses: {
     component: require('./liquor_maps.jsx')
+  },
+  sankey: {
+    component: require('./sankey.jsx')
   },
   heat_map: {
     component: require('./UBHeatMap.jsx')
