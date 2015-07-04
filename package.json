@@ -4,6 +4,7 @@
   "dependencies": {
     "classnames": "^2.1.2",
     "d3": "^3.5.5",
+    "gulp": "^3.9.0",
     "material-ui": "^0.8.0",
     "react-bootstrap": "^0.22.5",
     "react-draggable2": "^0.5.1",
@@ -45,7 +46,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "jest"
+    "postinstall": "gulp"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/preprocessor.js",
@@ -69,8 +70,5 @@
   },
   "browserify-shim": {
     "jquery": "$"
-  },
-  "scripts": {
-    "postinstall": "gulp"
   }
 }
