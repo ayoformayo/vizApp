@@ -71,7 +71,7 @@
     ]
   },
   "browser": {
-    "jquery": "./app/bower_components/jquery/dist/jquery.js"
+    "jquery": "./client/bower_components/jquery/dist/jquery.js"
   },
   "browserify-shim": {
     "jquery": "$"
