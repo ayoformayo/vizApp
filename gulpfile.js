@@ -112,7 +112,7 @@ gulp.task('fonts', function() {
 // Clean
 gulp.task('clean', function(cb) {
     $.cache.clearAll();
-    cb(del.sync(['./public/styles', './public/scripts', './public/images']));
+    cb(del.sync(['./public/styles', './public/scripts']));
 });
 
 // Bundle
