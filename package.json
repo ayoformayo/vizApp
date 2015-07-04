@@ -2,6 +2,8 @@
   "name": "myVisualizer",
   "version": "0.0.0",
   "dependencies": {
+    "browser-sync": "^2.7.13",
+    "browserify": "^10.2.4",
     "classnames": "^2.1.2",
     "d3": "^3.5.5",
     "del": "^1.2.0",
@@ -27,7 +29,9 @@
     "react-tap-event-plugin": "^0.1.7",
     "reflux": "^0.2.7",
     "topojson": "^1.6.19",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.3"
   },
   "devDependencies": {
     "browser-sync": "latest",
