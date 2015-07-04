@@ -21,7 +21,6 @@ var source = require('vinyl-source-stream'),
 var browserSync = require('browser-sync');
 var reload = browserSync.reload;
 
-
 // Styles
 gulp.task('styles', ['sass'  ]);
 
