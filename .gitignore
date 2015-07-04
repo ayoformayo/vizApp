@@ -15,3 +15,9 @@
 /log/*.log
 /tmp
 .DS_Store
+/public/bower_components
+/public/fonts
+/public/scripts
+/public/styles
+/node_modules
+/.sass-cache
