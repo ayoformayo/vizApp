@@ -47,7 +47,8 @@
     "watchify": "~2.1"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.x",
+    "npm": "2.12.1"
   },
   "scripts": {
     "postinstall": "gulp"
