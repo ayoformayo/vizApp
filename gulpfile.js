@@ -29,7 +29,7 @@ gulp.task('sass', function() {
         .pipe($.rubySass({
             style: 'expanded',
             precision: 10,
-            loadPath: ['./public/bower_components']
+            loadPath: ['./client/bower_components']
         }))
         .pipe($.autoprefixer('last 1 version'))
         .pipe(gulp.dest('./public/styles'))
@@ -134,10 +134,10 @@ gulp.task('buildBundle', ['styles', 'buildScripts', 'bower'], function() {
 
 // Bower helper
 gulp.task('bower', function() {
-    gulp.src('./public/bower_components/**/*.js', {
-            base: './public/bower_components'
+    gulp.src('./client/bower_components/**/*.js', {
+            base: './client/bower_components'
         })
-        .pipe(gulp.dest('./public/bower_components/'));
+        .pipe(gulp.dest('./client/bower_components/'));
 
 });
 
